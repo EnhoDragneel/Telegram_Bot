@@ -9,7 +9,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-TOKEN = "7887105431:AAGntZqEN8NZUUnhsEtdVtEi76IID6ZwaUc" 
+TOKEN = "Seu Token" #Coloque aqui o token do seu bot
 CSV_FILE = "mensagens_telegram.csv"
 
 
